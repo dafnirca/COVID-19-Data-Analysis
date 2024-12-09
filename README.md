@@ -36,12 +36,6 @@ Os datasets utilizados no projeto incluem informações sobre a evolução da pa
 - **Gráficos de Dispersão**: Relação entre vacinação e redução de casos.
 - **Mapas Interativos**: Distribuição de casos e vacinação global.
 
-## 📈 Resultados
-### Principais Descobertas
-- **Casos e Mortes**: Estados brasileiros com maiores números absolutos são [estado 1] e [estado 2].
-- **Vacinação**: Regiões mais avançadas apresentam queda significativa nos casos e mortes.
-- **Tendências Globais**: Países com maior cobertura vacinal apresentam menor mortalidade.
-
 ## Colaboradores
 
 <table>
